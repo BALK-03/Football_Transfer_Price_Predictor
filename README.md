@@ -28,5 +28,7 @@ Please refer to the following Google Drive link:
 ## Ensure you have:
 
    1.Installed the required dependencies.
-   2.Created a virtual environment
+
+   
+   2.Created a virtual environment.
 
