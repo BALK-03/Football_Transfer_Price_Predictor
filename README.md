@@ -1,6 +1,6 @@
- **Uniting Web Scraping, Data Analysis, ML Modeling, and Streamlit Visualization**
+##  Football Transfer Price Predictor
 
-The project endeavors to integrate three key processes essential for data scientists. Firstly, we focus on data acquisition, achieved through web scraping of Transfermarkt and FIFA Stats websites. Secondly, we delve into data manipulation and preprocessing, laying the foundation for constructing a predictive model using Machine Learning techniques. Lastly, we embark on deploying our model. To accomplish this, we employ the Streamlit framework to develop an interface. This interface allows users to interactively adjust features and predict player fees, thereby providing an intuitive and customizable experience.
+The project endeavors to integrate three key processes essential for data scientists. Firstly, we focus on data acquisition, achieved through web scraping of Transfermarkt and FIFA websites. Secondly, we delve into data manipulation and preprocessing, laying the foundation for constructing a predictive model using Machine Learning techniques. Lastly, we embark on deploying our model. To accomplish this, we employ the Streamlit framework to develop an interface. This interface allows users to interactively adjust features and predict player fees, thereby providing an intuitive and customizable experience.
 
 ## Project Structure
 
@@ -30,4 +30,3 @@ The project is organized into the following directories:
 
    
    2.Created a virtual environment.
-
